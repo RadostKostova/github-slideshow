@@ -1,5 +1,5 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+Name: Radost
+LastName: Kostova
 ---
 Committed successfully
