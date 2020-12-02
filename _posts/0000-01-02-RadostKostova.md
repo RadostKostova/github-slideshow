@@ -2,4 +2,6 @@
 Name: Radost
 LastName: Kostova
 ---
-Committed successfully
+---
+Merge: Successful
+---
